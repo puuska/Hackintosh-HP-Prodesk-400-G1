@@ -9,6 +9,7 @@
 | Sound Card          | Realtek ALC221 (layout-id:11/15)            |
 | Ethernet		      | Realtek RTL8168G                        		|
 
+![hackintosh desktop](https://i.imgur.com/rbMhHpv.png)
 ## Improvements
 - Use https://github.com/Piker-Alpha/ssdtPRGen.sh to optimize CPU power management
 - After installation, go to terminal and enter `sudo spctl --master-disable` to allow apps from unidentified developers
@@ -19,6 +20,11 @@
 First of all, go to UEFI settings and disable serial port. Upgrade BIOS to newest possible version (atm it's 00.02.56 Rev.A released on 30/04/2019 (dd/mm/yyyy) )
 To install it, download Olarila image from their forums, burn to USB Stick with Etcher/Win32DiskImager and replace Clover folder with folder from this repo.
 
+### Issues
+- VGA Display output is not working
+- TV and Sidecar apps aren't working if you are going to install Catalina insted of Mojave
+- I'm not sure about 4K but Donw35 wrote on InsanelyMac that it doesn't work too
+- While installing, make sure your USB Stick, keyboard and mouse are attached to USB2.0 ports, USB3.0 worked for me on installed OS, not in installer.
 ## A reward
 
 All the project is made for free, but you can reward me if you want.
