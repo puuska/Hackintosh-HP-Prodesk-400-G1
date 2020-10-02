@@ -18,7 +18,7 @@
 
 ### First-time installation
 First of all, go to the UEFI settings and disable the serial port. Upgrade the BIOS to the newest possible version (currently the newest version is version no. [00.02.56, Rev.A](https://ftp.hp.com/pub/softpaq/sp96001-96500/sp96015.exe) which was released on the 30th of April 2019).
-Copy OpenCore to EFI partition or USB drive. In contrast to Clover, you need to have BOOT\bootx64.efi file.
+Copy OpenCore to EFI partition or USB drive. In contrast to Clover, you need to have BOOT\bootx64.efi file. You will need to set SMBIOS as in
 Simply put your Big Sur install USB into any port and select Install macOS option in OpenCore.
 
 ### Issues

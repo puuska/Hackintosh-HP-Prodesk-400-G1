@@ -666,15 +666,23 @@
 	<dict>
 		<key>Automatic</key>
 		<true/>
-		<key>UpdateDataHub</key>
-		<true/>
-		<key>UpdateNVRAM</key>
-		<true/>
-		<key>UpdateSMBIOS</key>
-		<true/>
-		<key>UpdateSMBIOSMode</key>
-		<string>Create</string>
-	</dict>
+		<key>Generic</key>
+		<dict>
+			<key>AdviseWindows</key>
+			<false/>
+			<key>MLB</key>
+			<string>D25538100GUG36DCB</string>
+			<key>ROM</key>
+			<data>q/ARMUy5</data>
+			<key>SpoofVendor</key>
+			<true/>
+			<key>SystemProductName</key>
+			<string>iMac14,4</string>
+			<key>SystemSerialNumber</key>
+			<string>D25QFZZLFY0T</string>
+			<key>SystemUUID</key>
+			<string>E66C23C1-3ABB-4AE9-AE63-6749E8B89A5F</string>
+		</dict>
 	<key>UEFI</key>
 	<dict>
 		<key>APFS</key>
