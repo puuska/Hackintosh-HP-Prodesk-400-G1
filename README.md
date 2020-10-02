@@ -28,6 +28,8 @@ Simply put your Big Sur install USB into any port and select Install macOS optio
 
 
 ## Credits
+- OpenCore with Big Sur support config was created by [bieleckipawel](https://github.com/bieleckipawel);
+- thanks to OpenCore developers;
 - thanks to [Acidanthera](https://github.com/acidanthera) for providing [VirtualSMC](https://github.com/acidanthera/VirtualSMC), [Lilu](https://github.com/acidanthera/Lilu) and [WhateverGreen](https://github.com/acidanthera/WhateverGreen);
 - thanks to [RehabMan](https://github.com/RehabMan) for [OS-X-Realtek-Network](https://github.com/RehabMan/OS-X-Realtek-Network) and [VoodooPS2Controller](https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller);
 - thanks to Clover team for providing [VoodooHDA](https://sourceforge.net/p/voodoohda/).
