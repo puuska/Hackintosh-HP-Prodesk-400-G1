@@ -1,4 +1,5 @@
 # HP ProDesk 400 G1 - Big Sur Hackintosh
+[⬅️  Previous: Catalina](https://github.com/lukizel/Catalina-HP-ProDesk-400-G1) | Next: NONE! ➡️
 ## Configuration
 
 | Specifications | Details                                                  |
